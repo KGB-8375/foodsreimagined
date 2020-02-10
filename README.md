@@ -27,3 +27,8 @@ For the sake of simplicity, all food has been divided into the following categor
     - 4 hunger 3 saturation
     - Speed I and Haste I for 2:00
     - Afterwards, a sugar crash: Slowness I and Mining Fatigue I for 1:00
+
+
+## Installing
+
+As mentioned before, this mod is in very early development. To download a preview release, go to `/build/libs`
