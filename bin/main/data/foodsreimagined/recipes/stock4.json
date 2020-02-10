@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients":
+	[
+		{ "item": "minecraft:bone" },
+		{ "tag": "foodsreimagined:vegetables"},
+		{ "tag": "foodsreimagined:meats_raw"},
+		{ "item": "minecraft:water_bucket" }
+	],
+	"result":
+	{
+		"item": "foodsreimagined:stock",
+		"count": 8
+	}
+}

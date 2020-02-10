@@ -1,0 +1,19 @@
+{
+	"item.foodsreimagined.knife": "Kitchen Knife",
+	"item.foodsreimagined.churn": "Butter Churn",
+
+	"item.foodsreimagined.sliced_bread": "Sliced Bread",
+	"item.foodsreimagined.toasted_bread": "Toast",
+	"item.foodsreimagined.stock": "Bone Stock",
+	"item.foodsreimagined.cheese": "Cheese",
+	"item.foodsreimagined.cheese_curds": "Cheese Curds",
+	"item.foodsreimagined.butter": "Stick of Butter",
+	"item.foodsreimagined.salt": "Salt",
+	"item.foodsreimagined.salt_bucket": "Bucket of Salt",
+	
+	"item.foodsreimagined.sandwich_toast": "Toast Sandwich",
+	"item.foodsreimagined.borscht": "Borscht",
+	
+	"itemGroup.foodsreimagined": "Foods Reimagined"
+
+}

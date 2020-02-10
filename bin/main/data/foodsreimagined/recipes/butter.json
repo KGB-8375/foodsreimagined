@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients":
+	[
+		{ "item": "foodsreimagined:churn" },
+		{ "item": "minecraft:milk_bucket" },
+		{ "item": "foodsreimagined:salt"}
+	],
+	"result":
+	{ 
+		"item": "foodsreimagined:butter"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"type": "minecraft:smoking",
+	"ingredient": { "item":"minecraft:water_bucket" },
+	"result": "foodsreimagined:salt_bucket",
+	"experience": 0.5
+}

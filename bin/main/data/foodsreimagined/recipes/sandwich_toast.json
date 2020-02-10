@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"B",
+		"T",
+		"B"
+	],
+	
+	"key":
+	{
+		"B": { "item": "foodsreimagined:sliced_bread" },
+		"T": { "item": "foodsreimagined:toasted_bread" }
+	},
+	
+	"result": { "item": "foodsreimagined:sandwich_toast" }
+}

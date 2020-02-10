@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		" S ",
+		"PBP",
+		"PHP"
+	],
+	
+	"key":
+	{
+		"S": { "item": "minecraft:stick" },
+		"P": { "tag": "minecraft:planks" },
+		"B": { "item": "minecraft:bucket" },
+		"H": { "tag": "minecraft:wooden_slabs"}
+	},
+	
+	"result": { "item": "foodsreimagined:churn" }
+}
