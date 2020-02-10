@@ -14,12 +14,23 @@ out
 .idea
 
 # gradle
-build
 .gradle
+build/classes
+build/createMcpToSrg
+build/downloadMCMeta
+build/downloadMcpConfig
+build/extractSrg
+build/natives
+build/reobfJar
+build/resources
+build/tmp
 
 # other
 eclipse
 run
+
+.github
+gradle*
 
 # Files from Forge MDK
 forge*changelog.txt
