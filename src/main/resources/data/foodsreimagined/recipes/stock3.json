@@ -3,11 +3,12 @@
 	"ingredients":
 	[
 		{ "item": "minecraft:bone" },
+		{ "tag": "foodsreimagined:vegetables"},
 		{ "item": "minecraft:water_bucket" }
 	],
 	"result":
 	{
 		"item": "foodsreimagined:stock",
-		"count": 2
+		"count": 5
 	}
 }
