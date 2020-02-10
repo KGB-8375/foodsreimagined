@@ -1,0 +1,6 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": { "item":"foodsreimagined:cheese_curds" },
+	"result": "foodsreimagined:cheese",
+	"experience": 0.5
+}

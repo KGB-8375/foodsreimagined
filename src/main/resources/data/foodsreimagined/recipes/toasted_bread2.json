@@ -1,0 +1,6 @@
+{
+	"type": "minecraft:smoking",
+	"ingredient": { "item":"foodsreimagined:sliced_bread" },
+	"result": "foodsreimagined:toasted_bread",
+	"experience": 0.5
+}

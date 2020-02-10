@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients":
+	[
+		{ "tag": "foodsreimagined:stock" },
+		{ "item": "minecraft:water_bucket" }
+	],
+	"result":
+	{
+		"item": "foodsreimagined:stock",
+		"count": 2
+	}
+}

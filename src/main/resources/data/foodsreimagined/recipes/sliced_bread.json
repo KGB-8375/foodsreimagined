@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients":
+	[
+		{ "item": "foodsreimagined:knife" },
+		{ "item": "minecraft:bread" }
+	],
+	"result":
+	{ 
+		"item": "foodsreimagined:sliced_bread",
+		"count": 4
+	}
+}
