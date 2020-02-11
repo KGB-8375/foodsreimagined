@@ -2,7 +2,7 @@ package com.github.kgb8375.foodsreimagined.lists;
 
 import net.minecraft.item.Item;
 
-public class FoodsReimgainedItems {
+public class FoodsReimaginedItems {
 	// Tools
 	public static Item KNIFE;
 	public static Item CHURN;
@@ -20,4 +20,8 @@ public class FoodsReimgainedItems {
 	// Food
 	public static Item SANDWICH_TOAST;
 	public static Item BORSCHT;
+	
+	// Crops
+	public static Item RICE_SEEDS;
+	public static Item RICE;
 }

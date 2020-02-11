@@ -1,6 +1,6 @@
 package com.github.kgb8375.foodsreimagined;
 
-import com.github.kgb8375.foodsreimagined.lists.FoodsReimgainedItems;
+import com.github.kgb8375.foodsreimagined.lists.FoodsReimaginedItems;
 
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
@@ -14,6 +14,6 @@ public class FoodsReimaginedItemGroup extends ItemGroup {
 	@Override
 	public ItemStack createIcon() 
 	{
-		return new ItemStack(FoodsReimgainedItems.SLICED_BREAD);
+		return new ItemStack(FoodsReimaginedItems.SLICED_BREAD);
 	}
 }
