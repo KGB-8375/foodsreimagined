@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients":
+	[
+		{ "item": "minecraft:dried_kelp" },
+		{ "tag": "foodsreimagined:fish_raw" },
+		{ "item": "foodsreimagined:rice" }
+	],
+	"result":
+	{
+		"item": "foodsreimagined:sushi_roll",
+		"count": 3
+	}
+}

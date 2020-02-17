@@ -73,13 +73,16 @@ public class FoodsReimagined {
 			(
 				// Crafting Items
 				FoodsReimaginedItems.SLICED_BREAD = new Item(new Item.Properties().group(FOODSREIMAGINED)).setRegistryName(location("sliced_bread")),
-				FoodsReimaginedItems.TOASTED_BREAD = new Item(new Item.Properties().group(FOODSREIMAGINED)).setRegistryName(location("toasted_bread")),
+				FoodsReimaginedItems.TOAST = new Item(new Item.Properties().group(FOODSREIMAGINED)).setRegistryName(location("toast")),
 				FoodsReimaginedItems.STOCK = new Item(new Item.Properties().group(FOODSREIMAGINED)).setRegistryName(location("stock")),
 				FoodsReimaginedItems.CHEESE = new Item(new Item.Properties().group(FOODSREIMAGINED)).setRegistryName(location("cheese")),
 				FoodsReimaginedItems.CHEESE_CURDS = new Item(new Item.Properties().group(FOODSREIMAGINED)).setRegistryName(location("cheese_curds")),
 				FoodsReimaginedItems.BUTTER = new Item(new Item.Properties().group(FOODSREIMAGINED)).setRegistryName(location("butter")),
 				FoodsReimaginedItems.SALT = new Item(new Item.Properties().group(FOODSREIMAGINED)).setRegistryName(location("salt")),
 				FoodsReimaginedItems.SALT_BUCKET = new Item(new Item.Properties().group(FOODSREIMAGINED).containerItem(Items.BUCKET)).setRegistryName(location("salt_bucket")),
+				FoodsReimaginedItems.HONEY = new Item(new Item.Properties().group(FOODSREIMAGINED)).setRegistryName(location("honey")),
+				FoodsReimaginedItems.GLASS = new Item(new Item.Properties().group(FOODSREIMAGINED)).setRegistryName(location("glass")),
+				FoodsReimaginedItems.GLASS_MILK = new Item(new Item.Properties().group(FOODSREIMAGINED).containerItem(FoodsReimaginedItems.GLASS)).setRegistryName("glass_milk"),
 				
 				// Tools
 				FoodsReimaginedItems.KNIFE = new FoodsReimaginedTool(250).setRegistryName(location("knife")),
@@ -88,6 +91,15 @@ public class FoodsReimagined {
 				// Foods
 				FoodsReimaginedItems.SANDWICH_TOAST = new FoodsReimaginedFood(FoodsReimaginedFoods.SNACK, false, 64).setRegistryName(location("sandwich_toast")),
 				FoodsReimaginedItems.BORSCHT = new FoodsReimaginedFood(FoodsReimaginedFoods.LUNCH, true, 4).setRegistryName(location("borscht")),
+				FoodsReimaginedItems.APPLE_SLICES = new FoodsReimaginedFood(FoodsReimaginedFoods.SNACK, false, 64).setRegistryName(location("apple_slices")),
+				FoodsReimaginedItems.BROWNIE = new FoodsReimaginedFood(FoodsReimaginedFoods.DESERT, false, 64).setRegistryName(location("brownie")),
+				FoodsReimaginedItems.SUSHI_NIGIRI = new FoodsReimaginedFood(FoodsReimaginedFoods.SNACK, false, 64).setRegistryName(location("sushi_nigiri")),
+				FoodsReimaginedItems.SUSHI_ROLL = new FoodsReimaginedFood(FoodsReimaginedFoods.SNACK, false, 64).setRegistryName(location("sushi_roll")),
+				FoodsReimaginedItems.CEREAL = new FoodsReimaginedFood(FoodsReimaginedFoods.BREAKFAST, true, 4).setRegistryName(location("cereal")),
+				FoodsReimaginedItems.PORRIDGE = new FoodsReimaginedFood(FoodsReimaginedFoods.BREAKFAST, true, 4).setRegistryName(location("porridge")),
+				FoodsReimaginedItems.TOAST_BUTTERED = new FoodsReimaginedFood(FoodsReimaginedFoods.SNACK, false, 64).setRegistryName(location("toast_buttered")),
+				FoodsReimaginedItems.TOAST_HONEY = new FoodsReimaginedFood(FoodsReimaginedFoods.SNACK, false, 64).setRegistryName(location("toast_honey")),
+				FoodsReimaginedItems.RICE_PUDDING = new FoodsReimaginedFood(FoodsReimaginedFoods.DESERT, true, 4).setRegistryName(location("rice_pudding")),
 				
 				// Crops
 				FoodsReimaginedItems.RICE = new Item(new Item.Properties().group(FOODSREIMAGINED)).setRegistryName(FoodsReimaginedBlocks.RICE.getRegistryName()),

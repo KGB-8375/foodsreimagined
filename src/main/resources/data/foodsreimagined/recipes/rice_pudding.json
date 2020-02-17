@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"G",
+		"R",
+		"B"
+	],
+	
+	"key":
+	{
+		"G": { "item": "foodsreimagined:glass_milk" },
+		"R": { "item": "foodsreimagined:rice" },
+		"B": { "item": "minecraft:bowl" }
+	},
+	
+	"result": { "item": "foodsreimagined:rice_pudding" }
+}

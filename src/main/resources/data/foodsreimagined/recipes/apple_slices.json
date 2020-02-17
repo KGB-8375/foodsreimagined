@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients":
+	[
+		{ "item": "foodsreimagined:knife" },
+		{ "item": "minecraft:apple" }
+	],
+	"result":
+	{ 
+		"item": "foodsreimagined:apple_slices",
+		"count": 2
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients":
+	[
+		{ "item": "foodsreimagined:rice" },
+		{ "tag": "foodsreimagined:fish_raw" }
+	],
+	"result":
+	{
+		"item": "foodsreimagined:sushi_nigiri",
+		"count": 2
+	}
+}

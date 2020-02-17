@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients":
+	[
+		{ "item": "minecraft:bowl" },
+		{ "item": "foodsreimagined:glass_milk" },
+		{ "tag": "foodsreimagined:grain" },
+		{ "item": "foodsreimagined:honey" }
+	],
+	"result":
+	{ 
+		"item": "foodsreimagined:porridge"
+	}
+}

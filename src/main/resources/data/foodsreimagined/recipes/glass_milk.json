@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients":
+	[
+		{  "item": "foodsreimagined:glass" },
+		{  "item": "foodsreimagined:glass" },
+		{  "item": "foodsreimagined:glass" },
+		{  "item": "foodsreimagined:glass" },
+		{ "item": "minecraft:milk_bucket" }
+	],
+	"result":
+	{
+		"item": "foodsreimagined:glass_milk",
+		"count": 4
+	}
+}
