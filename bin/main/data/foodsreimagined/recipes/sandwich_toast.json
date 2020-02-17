@@ -11,7 +11,7 @@
 	"key":
 	{
 		"B": { "item": "foodsreimagined:sliced_bread" },
-		"T": { "item": "foodsreimagined:toasted_bread" }
+		"T": { "item": "foodsreimagined:toast" }
 	},
 	
 	"result": { "item": "foodsreimagined:sandwich_toast" }
